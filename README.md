@@ -1,4 +1,6 @@
-# Modern and Minimal Electron + React Starter Kit
+# effective-rotary-react-phone
+A sample React+Electron App
+
 _Electron, React, Webpack -- Modern and up-to-date, with a handful of quality of life features included_
 
 I made this starter kit as most boilerplates were either out-of-date, heavy handed, or enforced a structure on me that I just didnt like.

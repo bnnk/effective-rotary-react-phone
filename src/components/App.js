@@ -1,12 +1,15 @@
 import '../assets/css/App.css';
 import React, { Component } from 'react';
+const remote = require('electron').remote;
 
 class App extends React.Component {
   render() {
+    console.log(<button onclick={function(){var window  = remote.getCurrentWindow();window.close()}}>Close It!</button>)
     return (
-      <div>
-        <h1>Hello, Electron!</h1>
-        <p>I hope you enjoy using basic-electron-react-boilerplate to start your dev off right!</p>
+      <div className="msg-wrapper">
+        <h1>Hello, Electron!</h1><br/>
+        <p>I hope you enjoy!</p><br/>
+        <br/>
       </div>
     );
   }

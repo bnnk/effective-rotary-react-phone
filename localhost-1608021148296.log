@@ -1,0 +1,106 @@
+log.js:24 [HMR] Waiting for update signal from WDS...
+react-dom.development.js:27773 Download the React DevTools for a better development experience: https://fb.me/react-devtools
+App.js:1 Uncaught Error: Cannot find module '../CenterComponent'
+    at webpackMissingModule (App.js:1)
+    at Module../src/components/App.js (App.js:1)
+    at __webpack_require__ (bootstrap:726)
+    at fn (bootstrap:100)
+    at Module../src/index.js (index.js:1)
+    at __webpack_require__ (bootstrap:726)
+    at fn (bootstrap:100)
+    at Object.0 (index.js:12)
+    at __webpack_require__ (bootstrap:726)
+    at bootstrap:793
+security-warnings.ts:179 Electron Security Warning (Insecure Content-Security-Policy) This renderer process has either no Content Security
+    Policy set or a policy with "unsafe-eval" enabled. This exposes users of
+    this app to unnecessary security risks.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged.
+(anonymous) @ security-warnings.ts:179
+client:48 [WDS] Hot Module Replacement enabled.
+client:52 [WDS] Live Reloading enabled.
+client:150 [WDS] Errors while compiling. Reload prevented.
+errors @ client:150
+(anonymous) @ socket.js:47
+sock.onmessage @ SockJSClient.js:63
+EventTarget.dispatchEvent @ sockjs.js:170
+(anonymous) @ sockjs.js:888
+SockJS._transportMessage @ sockjs.js:886
+EventEmitter.emit @ sockjs.js:86
+WebSocketTransport.ws.onmessage @ sockjs.js:2962
+client:159 ./src/components/App.js
+Module not found: Error: Can't resolve '../CenterComponent' in 'E:\basic-electron-react-boilerplate\src\components'
+errors @ client:159
+(anonymous) @ socket.js:47
+sock.onmessage @ SockJSClient.js:63
+EventTarget.dispatchEvent @ sockjs.js:170
+(anonymous) @ sockjs.js:888
+SockJS._transportMessage @ sockjs.js:886
+EventEmitter.emit @ sockjs.js:86
+WebSocketTransport.ws.onmessage @ sockjs.js:2962
+client:55 [WDS] App updated. Recompiling...
+client:55 [WDS] App updated. Recompiling...
+client:150 [WDS] Errors while compiling. Reload prevented.
+errors @ client:150
+(anonymous) @ socket.js:47
+sock.onmessage @ SockJSClient.js:63
+EventTarget.dispatchEvent @ sockjs.js:170
+(anonymous) @ sockjs.js:888
+SockJS._transportMessage @ sockjs.js:886
+EventEmitter.emit @ sockjs.js:86
+WebSocketTransport.ws.onmessage @ sockjs.js:2962
+client:159 ./src/components/App.js
+Module not found: Error: Can't resolve 'CenterComponent' in 'E:\basic-electron-react-boilerplate\src\components'
+errors @ client:159
+(anonymous) @ socket.js:47
+sock.onmessage @ SockJSClient.js:63
+EventTarget.dispatchEvent @ sockjs.js:170
+(anonymous) @ sockjs.js:888
+SockJS._transportMessage @ sockjs.js:886
+EventEmitter.emit @ sockjs.js:86
+WebSocketTransport.ws.onmessage @ sockjs.js:2962
+client:55 [WDS] App updated. Recompiling...
+client:55 [WDS] App updated. Recompiling...
+client:150 [WDS] Errors while compiling. Reload prevented.
+errors @ client:150
+(anonymous) @ socket.js:47
+sock.onmessage @ SockJSClient.js:63
+EventTarget.dispatchEvent @ sockjs.js:170
+(anonymous) @ sockjs.js:888
+SockJS._transportMessage @ sockjs.js:886
+EventEmitter.emit @ sockjs.js:86
+WebSocketTransport.ws.onmessage @ sockjs.js:2962
+client:159 ./src/components/App.js
+Module not found: Error: Can't resolve 'CenterComponent' in 'E:\basic-electron-react-boilerplate\src\components'
+errors @ client:159
+(anonymous) @ socket.js:47
+sock.onmessage @ SockJSClient.js:63
+EventTarget.dispatchEvent @ sockjs.js:170
+(anonymous) @ sockjs.js:888
+SockJS._transportMessage @ sockjs.js:886
+EventEmitter.emit @ sockjs.js:86
+WebSocketTransport.ws.onmessage @ sockjs.js:2962
+client:55 [WDS] App updated. Recompiling...
+client:55 [WDS] App updated. Recompiling...
+client:150 [WDS] Errors while compiling. Reload prevented.
+errors @ client:150
+(anonymous) @ socket.js:47
+sock.onmessage @ SockJSClient.js:63
+EventTarget.dispatchEvent @ sockjs.js:170
+(anonymous) @ sockjs.js:888
+SockJS._transportMessage @ sockjs.js:886
+EventEmitter.emit @ sockjs.js:86
+WebSocketTransport.ws.onmessage @ sockjs.js:2962
+client:159 ./src/components/App.js
+Module not found: Error: Can't resolve 'CenterComponent' in 'E:\basic-electron-react-boilerplate\src\components'
+errors @ client:159
+(anonymous) @ socket.js:47
+sock.onmessage @ SockJSClient.js:63
+EventTarget.dispatchEvent @ sockjs.js:170
+(anonymous) @ sockjs.js:888
+SockJS._transportMessage @ sockjs.js:886
+EventEmitter.emit @ sockjs.js:86
+WebSocketTransport.ws.onmessage @ sockjs.js:2962

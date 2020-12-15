@@ -1,4 +1,9 @@
-h1 {
-  font-family: helvetica;
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+body {
+  font-family: 'Ubuntu';
   font-weight: 200;
+}
+.msg-wrapper {
+  max-width: 500px;
+  margin: auto;
 }
